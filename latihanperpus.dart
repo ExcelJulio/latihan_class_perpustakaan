@@ -30,7 +30,7 @@ perpustakaan.addbook(book3);
 
 perpustakaan.displaybook();
 print(" ");
-perpustakaan.borrowbook('Petualangan Acil');
+perpustakaan.borrowbook('Petualangan A');
 print(" ");
 perpustakaan.displaybook();
 }
